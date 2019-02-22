@@ -1,0 +1,5 @@
+rs_host='my.redshift.instance.us-west-2.redshift.amazonaws.com'
+rs_port=5439
+rs_dbname='mydb'
+rs_user='user'
+rs_password='passwd'
